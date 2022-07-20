@@ -5,7 +5,7 @@
 #
 export AWS_PROFILE=default
 export PROJECT_NAME=multienv-vote
-export AWS_REGION=eu-west-3
+export AWS_REGION=us-east-1
 # the directory containing the script file
 export PROJECT_DIR="$(cd "$(dirname "$0")"; pwd)"
 
